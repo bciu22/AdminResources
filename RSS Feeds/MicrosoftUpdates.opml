@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <body>
+        <outline text="Microsoft Updates" title="Microsoft Updates">
+            <outline type="rss" text="Microsoft Security Content: Comprehensive Edition" title="Microsoft Security Content: Comprehensive Edition" xmlUrl="https://technet.microsoft.com/en-us/security/rss/comprehensive" htmlUrl="https://technet.microsoft.com/en-us/security/bulletin"/>
+            <outline type="rss" text="Latest Security Advisories" title="Latest Security Advisories" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory" htmlUrl="https://technet.microsoft.com/en-us/security/advisory"/>
+            <outline type="rss" text="Microsoft Security Bulletins" title="Microsoft Security Bulletins" xmlUrl="https://technet.microsoft.com/en-us/security/rss/bulletin" htmlUrl="https://technet.microsoft.com/en-us/security/bulletin"/>
+            <outline type="rss" text="Microsoft Volume Licensing Blog" title="Microsoft Volume Licensing Blog" xmlUrl="http://blogs.technet.com/b/volume-licensing/rss.aspx" htmlUrl="http://blogs.technet.com/b/volume-licensing/default.aspx"/>
+            <outline type="rss" text="Office Blogs" title="Office Blogs" xmlUrl="http://blogs.office.com/feed/" htmlUrl="https://blogs.office.com"/>
+            <outline type="rss" text="Microsoft Security Response Center" title="Microsoft Security Response Center" xmlUrl="http://blogs.technet.com/b/msrc/rss.aspx" htmlUrl="http://blogs.technet.com/b/msrc/default.aspx"/>
+        </outline>
+    </body>
+</opml>

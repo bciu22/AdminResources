@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <body>
+        <outline text="SCCM" title="SCCM">
+            <outline type="rss" text="SCCM" title="SCCM" xmlUrl="https://www.reddit.com/r/SCCM/.rss" htmlUrl="https://www.reddit.com/r/SCCM/"/>
+            <outline type="rss" text="Michael Niehaus' Windows and Office deployment ramblings" title="Michael Niehaus' Windows and Office deployment ramblings" xmlUrl="http://blogs.technet.com/mniehaus/rss.xml" htmlUrl="http://blogs.technet.com/b/mniehaus/default.aspx"/>
+		</outline>
+    </body>
+</opml>

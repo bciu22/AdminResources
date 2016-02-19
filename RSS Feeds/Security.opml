@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <body>
+		<outline text="Security">
+            <outline text="Schneier on Security" type="rss" htmlUrl="https://www.schneier.com/blog/" xmlUrl="http://www.schneier.com/blog/index.rdf"/>
+            <outline text="codeinsecurity" type="rss" htmlUrl="https://codeinsecurity.wordpress.com" xmlUrl="http://codeinsecurity.wordpress.com/feed/"/>
+            <outline text="Errata Security" type="rss" htmlUrl="http://blog.erratasec.com/" xmlUrl="http://blog.erratasec.com/feeds/posts/default"/>
+            <outline text="/r/netsec - Information Security News &amp; Discussion" type="rss" htmlUrl="http://www.reddit.com/r/netsec/" xmlUrl="http://www.reddit.com/r/netsec/.rss"/>
+            <outline text="Krebs on Security" type="rss" htmlUrl="http://krebsonsecurity.com" xmlUrl="http://krebsonsecurity.com/feed/"/>
+        </outline>
+    </body>
+</opml>

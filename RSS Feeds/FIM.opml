@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <body>
+        <outline text="Fim" title="Fim">
+            <outline type="rss" text="The Identity Management Explorer" title="The Identity Management Explorer" xmlUrl="http://feeds.feedburner.com/AdventuresInIdentityManagement" htmlUrl="http://blog.goverco.com/"/>
+            <outline type="rss" text="FIM Creative Thoughts" title="FIM Creative Thoughts" xmlUrl="http://fimcreativethoughts.blogspot.com/feeds/posts/default" htmlUrl="http://fimcreativethoughts.blogspot.com/"/>
+            <outline type="rss" text="FIMSpecialist" title="FIMSpecialist" xmlUrl="http://www.fimspecialist.com/feed/" htmlUrl="http://www.fimspecialist.com"/>
+            <outline type="rss" text="Identity Underground" title="Identity Underground" xmlUrl="http://identityunderground.wordpress.com/feed/" htmlUrl="https://identityunderground.wordpress.com"/>
+            <outline type="rss" text="Kent Nordström | konab.com » FIM" title="Kent Nordström | konab.com » FIM" xmlUrl="http://konab.com/category/fim/feed/" htmlUrl="http://konab.com"/>
+            <outline type="rss" text="JustIDM" title="JustIDM" xmlUrl="http://justidm.wordpress.com/feed/" htmlUrl="https://justidm.wordpress.com"/>
+        </outline>
+    </body>
+</opml>

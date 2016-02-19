@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <body>
+        <outline text="Sharepoint" title="Sharepoint">
+            <outline type="rss" text="SharePointWarrior" title="SharePointWarrior" xmlUrl="http://blogs.technet.com/b/sharepointwarrior/rss.aspx" htmlUrl="http://blogs.technet.com/b/sharepointwarrior/default.aspx"/>
+            <outline type="rss" text="Nauplius" title="Nauplius" xmlUrl="http://thesharepointfarm.com/feed/" htmlUrl="http://thesharepointfarm.com"/>
+            <outline type="rss" text="Our SharePoint Experience" title="Our SharePoint Experience" xmlUrl="http://blog.sharepointexperience.com/feed/" htmlUrl="http://blog.sharepointexperience.com"/>
+            <outline type="rss" text="Marc D Anderson's Blog" title="Marc D Anderson's Blog" xmlUrl="http://sympmarc.com/feed/" htmlUrl="http://sympmarc.com"/>
+            <outline type="rss" text="Todd Klindt's Blog Posts" title="Todd Klindt's Blog Posts" xmlUrl="http://www.toddklindt.com/blog/_layouts/listfeed.aspx?List={56F96349-3BB6-4087-94F4-7F95FF4CA81F}" htmlUrl="http://www.toddklindt.com/blog/Lists/Posts/AllPosts.aspx"/>
+            <outline type="rss" text="Updates for Microsoft Office and Related Products" title="Updates for Microsoft Office and Related Products" xmlUrl="http://sxp.microsoft.com/feeds/3.0/msdntn/OfficeAndRelatedProductsUpdates" htmlUrl="http://sxp.microsoft.com/stream/item?channelid=msdntn&amp;feedid=officeandrelatedproductsupdates&amp;v=3"/>
+            <outline type="rss" text="Microsoft SharePoint" title="Microsoft SharePoint" xmlUrl="http://www.reddit.com/r/sharepoint/.rss" htmlUrl="http://www.reddit.com/r/sharepoint/"/>
+            <outline type="rss" text="Stefan Goßner" title="Stefan Goßner" xmlUrl="http://blogs.technet.com/b/stefan_gossner/rss.aspx" htmlUrl="https://blogs.technet.microsoft.com/stefan_gossner"/>
+            <outline type="rss" text="Site Home" title="Site Home" xmlUrl="http://blogs.technet.com/rss.aspx" htmlUrl="http://blogs.technet.com/default.aspx"/>
+            <outline type="rss" text="SharePoint-Videos Blog" title="SharePoint-Videos Blog" xmlUrl="http://blog.sharepointelearning.com/feed/" htmlUrl="http://blog.sharepoint-videos.com"/>
+        </outline>
+    </body>
+</opml>

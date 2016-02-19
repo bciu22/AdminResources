@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <body>
+        <outline text="Tech">
+            <outline text="AWS Official Blog" type="rss" htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="http://aws.typepad.com/aws/atom.xml"/>
+            <outline text="Michael Niehaus' Windows and Office deployment ramblings" type="rss" htmlUrl="http://blogs.technet.com/b/mniehaus/default.aspx" xmlUrl="http://blogs.technet.com/mniehaus/rss.xml"/>
+            <outline text="Sysadmin" type="rss" htmlUrl="http://www.reddit.com/r/sysadmin/" xmlUrl="http://www.reddit.com/r/sysadmin/.rss"/>
+            <outline text="Practical System Administration" type="rss" htmlUrl="https://thepracticalsysadmin.com" xmlUrl="http://thepracticalsysadmin.com/feed/"/>
+            <outline text="PowerShell" type="rss" htmlUrl="http://www.reddit.com/r/PowerShell/" xmlUrl="http://www.reddit.com/r/PowerShell/.rss"/>
+            <outline text="In the Cloud" type="rss" htmlUrl="https://blogs.technet.microsoft.com/in_the_cloud" xmlUrl="http://blogs.technet.com/b/in_the_cloud/rss.aspx"/>
+            <outline text="Recent posts in 'Announcements' | Code42 Helpdesk" type="rss" htmlUrl="https://helpdesk.code42.com/forums/24324-Announcements/posts" xmlUrl="https://helpdesk.code42.com/forums/24324-Announcements.rss"/>
+            <outline text="Ars Technica" type="rss" htmlUrl="http://arstechnica.com" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/"/>
+            <outline text="Scott Hanselman's Blog" type="rss" htmlUrl="http://www.hanselman.com/blog/" xmlUrl="http://feeds.hanselman.com/ScottHanselman"/>
+            <outline text="Outlook dev blog" type="rss" htmlUrl="http://blogs.msdn.com/b/exchangedev/" xmlUrl="http://blogs.msdn.com/exchangedev/rss.xml"/>
+            <outline text="DevOps Library" type="rss" htmlUrl="http://devopslibrary.com" xmlUrl="http://devopslibrary.com/feed/"/>
+            <outline text="MacSysAdmin" type="rss" htmlUrl="http://www.reddit.com/r/macsysadmin/" xmlUrl="http://www.reddit.com/r/macsysadmin/.rss"/>
+            <outline text="4sysops" type="rss" htmlUrl="https://4sysops.com" xmlUrl="http://feeds.4sysops.com/4sysops"/>
+            <outline text="K-12 Systems Administrators" type="rss" htmlUrl="http://www.reddit.com/r/k12sysadmin/" xmlUrl="http://www.reddit.com/r/k12sysadmin/.rss"/>
+            <outline text="pfSense for redditors - Open Source Firewall and Router Distribution" type="rss" htmlUrl="http://www.reddit.com/r/PFSENSE/" xmlUrl="http://www.reddit.com/r/PFSENSE/.rss"/>
+            <outline text="Everything DevOps" type="rss" htmlUrl="http://www.reddit.com/r/devops/" xmlUrl="http://www.reddit.com/r/devops/.rss"/>
+            <outline text="Ask Premier Field Engineering (PFE) Platforms" type="rss" htmlUrl="https://blogs.technet.microsoft.com/askpfeplat" xmlUrl="http://blogs.technet.com/b/askpfeplat/rss.aspx"/>
+        </outline>
+    </body>
+</opml>

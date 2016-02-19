@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <body>
+        <outline text="Cisco">
+            <outline text="Dyn Research" type="rss" htmlUrl="http://research.dyn.com" xmlUrl="http://research.dyn.com/feed/"/>
+            <outline text="Mark Holloway" type="rss" htmlUrl="http://www.markholloway.com/blog" xmlUrl="http://www.markholloway.com/blog/?feed=rss2"/>
+            <outline text="The Platform – Cisco Blog" type="rss" htmlUrl="http://blogs.cisco.com" xmlUrl="http://feeds.feedburner.com/CiscoBlogThePlatform"/>
+        </outline>
+    </body>
+</opml>
